@@ -1,0 +1,8 @@
+Company: OpenAI
+Industry: Artificial Intelligence
+Valuation: $90B
+Headquarters: San Francisco, CA
+Investors: Microsoft, Khosla Ventures
+IPO Prediction: Unknown
+Notes: Focused on AGI research. Massive revenue growth via ChatGPT.
+Tags: AI, unicorn, US, 2025
