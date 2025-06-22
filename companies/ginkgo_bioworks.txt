@@ -1,0 +1,8 @@
+Company: Ginkgo Bioworks
+Industry: Biotech
+Valuation: $15B
+Headquarters: Boston, MA
+Investors: Bill Gates, Viking Global
+IPO Prediction: Already public (2021)
+Notes: Interesting as a benchmark biotech unicorn. SPAC IPO.
+Tags: biotech, SPAC, US

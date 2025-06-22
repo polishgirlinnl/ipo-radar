@@ -1,0 +1,8 @@
+Company: Anthropic
+Industry: Artificial Intelligence
+Valuation: $18B
+Headquarters: San Francisco, CA
+Investors: Google, Salesforce Ventures
+IPO Prediction: 2025 (speculated)
+Notes: Competitor to OpenAI. Strong focus on AI safety.
+Tags: AI, unicorn, US, 2025

@@ -1,0 +1,8 @@
+Company: Duolingo
+Industry: Edtech
+Valuation: $6B
+Headquarters: Pittsburgh, PA
+Investors: General Atlantic
+IPO Prediction: Public (2021)
+Notes: IPO already happened but useful to benchmark growth.
+Tags: edtech, language, US

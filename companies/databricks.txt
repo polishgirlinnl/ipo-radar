@@ -1,0 +1,8 @@
+Company: Databricks
+Industry: Big Data / AI
+Valuation: $43B
+Headquarters: San Francisco, CA
+Investors: a16z, Coatue, BlackRock
+IPO Prediction: 2024
+Notes: Strong enterprise adoption, heavy hiring, and aggressive marketing.
+Tags: AI, big data, unicorn, US, 2024
