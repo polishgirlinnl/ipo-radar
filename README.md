@@ -1,4 +1,3 @@
-```
 # 🚀 IPO Radar
 
 A lightweight Python search engine for tracking high-potential companies predicted to go public.
@@ -7,7 +6,7 @@ IPO Radar is a simple yet powerful command-line tool that helps you explore star
 
 ------------------------------------------------------------
 
-🔍 FEATURES
+# 🔍 FEATURES
 
 - Search by industry, valuation, investors, IPO year, or location
 - Instant keyword matching across plain-text company files
@@ -17,7 +16,7 @@ IPO Radar is a simple yet powerful command-line tool that helps you explore star
 
 ------------------------------------------------------------
 
-📁 PROJECT STRUCTURE
+# 📁 PROJECT STRUCTURE
 
 ipo-radar/
 ├── companies/
@@ -39,7 +38,7 @@ Notes: Likely IPO in 2025.
 
 ------------------------------------------------------------
 
-💡 EXAMPLE USAGE
+# 💡 EXAMPLE USAGE
 
 $ python3 searchengine.py
 Enter search query (or press Enter to exit): AI unicorn 2025
@@ -50,7 +49,7 @@ Anthropic: $18B valuation. Focused on AI safety. 2025 IPO speculation growing.
 
 ------------------------------------------------------------
 
-🧠 BUILT WITH
+# 🧠 BUILT WITH
 
 - Python 3
 - Terminal / Command Line
@@ -58,13 +57,13 @@ Anthropic: $18B valuation. Focused on AI safety. 2025 IPO speculation growing.
 
 ------------------------------------------------------------
 
-🎓 CREATED FOR
+# 🎓 CREATED FOR
 
 This project was created as the final submission for Code in Place 2025 — Stanford's global introductory Python course.
 
 ------------------------------------------------------------
 
-✨ CONTRIBUTING & EXTENSIONS
+# ✨ CONTRIBUTING & EXTENSIONS
 
 While simple by design, IPO Radar could be expanded in many directions:
 - Add sorting (by valuation or IPO year)
@@ -76,8 +75,7 @@ Feel free to fork this project and build on it!
 
 ------------------------------------------------------------
 
-📬 CONTACT
+# 📬 CONTACT
 
 Made with 💻 by @polishgirlinnl
 Questions or feedback? Open an issue or send a PR!
-```
