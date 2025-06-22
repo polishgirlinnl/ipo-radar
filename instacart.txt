@@ -1,8 +1,0 @@
-Company: Instacart
-Industry: Food Delivery
-Valuation: $10B
-Headquarters: San Francisco, CA
-Investors: Sequoia, D1 Capital
-IPO Prediction: 2024
-Notes: Filed for IPO, focus on profitability, growing ad revenue.
-Tags: delivery, food, unicorn, US, 2024
